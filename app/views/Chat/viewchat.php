@@ -1,4 +1,4 @@
-<?php $this->view('shared/header','Register your account'); ?>
+<?php $this->view('shared/header','The Chatroom'); ?>
 
 <h1>Chatroom</h1>
 <a href='/Chat/index'>Change your username</a> |
